@@ -1,0 +1,6 @@
+c:\users\aranic\documents\visual studio 2012\Projects\game word\game word\bin\Debug\game word.exe.config
+c:\users\aranic\documents\visual studio 2012\Projects\game word\game word\bin\Debug\game word.exe
+c:\users\aranic\documents\visual studio 2012\Projects\game word\game word\bin\Debug\game word.pdb
+c:\users\aranic\documents\visual studio 2012\Projects\game word\game word\obj\Debug\game word.csprojResolveAssemblyReference.cache
+c:\users\aranic\documents\visual studio 2012\Projects\game word\game word\obj\Debug\game word.exe
+c:\users\aranic\documents\visual studio 2012\Projects\game word\game word\obj\Debug\game word.pdb
